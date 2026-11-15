@@ -1,0 +1,3 @@
+station_firmware,soh_in_over100,soh_out_over100,soc_out_over100,total_swaps,soh_in_over100_pct
+v3.2.1,1864.0,1621.0,2093.0,2253808,0.083
+v3.2.0,1434.0,1131.0,1541.0,1561174,0.092

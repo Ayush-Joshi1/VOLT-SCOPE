@@ -1,0 +1,7 @@
+pack_type,supplier,n_batteries,avg_soh_pct,min_soh_pct,max_soh_pct,p25_soh,median_soh,p75_soh,retired_count,retired_pct
+2W_2.1kWh,Kyron,1385,60.53,55.4,67.6,59.3,60.5,61.7,1385.0,100.0
+2W_2.1kWh,Amptek,1098,79.96,76.6,83.5,79.3,80.0,80.6,,
+2W_2.1kWh,Cellora,3035,79.97,77.0,83.2,79.4,80.0,80.6,,
+3W_4.8kWh,Kyron,253,81.35,66.3,88.5,70.6,86.1,86.8,53.0,20.95
+3W_4.8kWh,Amptek,209,86.51,84.4,88.1,86.0,86.5,87.1,,
+3W_4.8kWh,Cellora,520,86.52,83.8,88.6,86.0,86.5,87.1,,

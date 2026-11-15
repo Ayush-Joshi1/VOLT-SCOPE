@@ -1,0 +1,5 @@
+channel,tickets,avg_resolution_hours,avg_csat
+app_chat,19921,16.8,3.55
+whatsapp,11022,16.8,3.56
+call_center,8692,16.9,3.56
+partner_escalation,4365,8.2,3.58

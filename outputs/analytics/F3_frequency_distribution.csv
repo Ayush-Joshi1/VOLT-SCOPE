@@ -1,0 +1,6 @@
+frequency_band,riders,pct_riders,total_swaps_contributed,pct_swaps
+1 swap (one-time),91,0.46,91.0,0.0
+2-5 swaps,413,2.07,1447.0,0.04
+6-20 swaps,1646,8.25,21354.0,0.56
+21-50 swaps,2475,12.41,85338.0,2.24
+51+ swaps (power users),15316,76.81,3706752.0,97.16

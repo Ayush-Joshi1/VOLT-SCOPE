@@ -1,0 +1,13 @@
+partner_name,partner_segment,contract_type,discount_pct,discount_pct_after_amendment,payment_terms_days,swaps,total_revenue_inr,avg_revenue_per_swap,avg_list_price,avg_discount_given,effective_discount_pct,unique_riders,success_pct
+FeastFly,food_delivery,volume_tiered,10.0,,30,549133,32027885.0,58.32,66.54,6.65,10.0,2704,94.03
+ZipDrop,quick_commerce,volume_tiered,12.0,28.0,45,583937,28606515.0,48.99,66.83,14.66,21.94,2378,94.08
+ParcelNest,ecom_logistics,pay_per_swap,15.0,,30,312702,16740213.0,53.53,66.4,9.96,15.0,1761,94.73
+Swiggle Go,food_delivery,volume_tiered,11.0,,30,252273,14092429.0,55.86,66.74,7.34,11.0,1253,94.2
+CargoTuk,cargo_3w,pay_per_swap,8.0,,30,146011,13062631.0,89.46,107.96,8.64,8.0,865,89.95
+QuickCart,quick_commerce,pay_per_swap,9.0,,30,135718,7934509.0,58.46,65.91,5.93,9.0,531,94.28
+RideMitra,bike_taxi,pay_per_swap,6.0,,15,126484,7494596.0,59.25,66.09,3.97,6.0,607,94.48
+DabbaXpress,food_delivery,pay_per_swap,8.0,,30,97697,5853724.0,59.92,66.67,5.33,8.0,488,94.2
+HaulKing,cargo_3w,pay_per_swap,7.0,,45,59159,5331093.0,90.11,107.81,7.55,7.0,370,89.79
+UrbanErrand,bike_taxi,pay_per_swap,5.0,,15,87144,5226979.0,59.98,66.19,3.31,5.0,373,94.51
+LastMileHub,ecom_logistics,pay_per_swap,10.0,,30,85004,4878057.0,57.39,67.39,6.74,10.0,495,94.5
+MetroMove,ecom_logistics,volume_tiered,12.0,,30,86475,4831146.0,55.87,66.9,8.03,12.0,518,94.73

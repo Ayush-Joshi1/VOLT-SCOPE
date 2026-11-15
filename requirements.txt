@@ -1,0 +1,21 @@
+# VoltRelay Energy Analytics — Phase 1 Dependencies
+# Verified against Python 3.14 (also tested on 3.10+)
+# Install: pip install -r requirements.txt
+
+# Core data processing
+pandas>=2.0
+numpy>=1.24
+
+# Columnar storage and I/O
+pyarrow>=12.0
+
+# In-process SQL analytics
+duckdb>=0.9.0
+
+# Notebook execution
+jupyter>=1.0.0
+ipykernel>=6.0.0
+nbconvert>=7.0.0
+
+# Phase 1 uses only the above packages.
+# No dashboard, visualization, ML, or application dependencies are included.

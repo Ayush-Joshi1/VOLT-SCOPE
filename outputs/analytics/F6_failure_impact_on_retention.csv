@@ -1,0 +1,3 @@
+failure_exp,riders,avg_total_swaps,avg_last_swap_days_since_start,pct_engaged_5plus
+experienced_failure,17571,213.19,464.1,99.69
+no_failure,2370,29.09,397.0,85.23

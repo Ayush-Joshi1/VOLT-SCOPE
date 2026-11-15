@@ -1,0 +1,4 @@
+charger_generation,total,success_pct,failure_pct,avg_queue_sec,n_stations
+Gen1,1822034,92.77,4.638,242.9,51
+Gen2,1620707,95.153,2.992,243.0,62
+Gen3,372241,95.158,3.007,243.1,37

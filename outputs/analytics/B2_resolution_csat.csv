@@ -1,0 +1,4 @@
+resolution_status,tickets,avg_resolution_hours,avg_csat,csat_missing,csat_missing_pct,median_resolution_hours
+resolved,37888,16.0,3.56,22759.0,60.1,13.2
+unresolved,5175,,,5175.0,100.0,
+duplicate,937,,,937.0,100.0,

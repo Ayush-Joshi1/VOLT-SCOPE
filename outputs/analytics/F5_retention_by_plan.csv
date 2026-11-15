@@ -1,0 +1,4 @@
+plan_type,total_riders,active_riders,activation_pct,avg_swaps
+partner_billed,12372,12343,99.77,204.31
+prepaid_pack,2329,2315,99.4,170.44
+pay_as_you_go,5299,5283,99.7,170.11

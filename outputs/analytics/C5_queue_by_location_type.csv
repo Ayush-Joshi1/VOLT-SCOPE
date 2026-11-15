@@ -1,0 +1,7 @@
+location_type,total_swaps,avg_queue_sec,median_queue_sec,p95_queue_sec,success_pct
+highway_fuel_pump,329834,243.2,207.0,543.0,94.89
+commercial_hub,1535743,243.1,206.0,548.0,93.82
+market,1246931,243.0,205.0,549.0,93.76
+transit_hub,172667,242.9,206.0,545.0,94.03
+residential,382274,242.5,206.0,540.0,94.55
+tech_park,147533,242.5,206.0,543.0,94.79

@@ -1,0 +1,7 @@
+category,tickets,pct,avg_resolution_hours,avg_csat_nonmissing,csat_missing,csat_missing_pct
+no_battery_available,11647,26.47,16.0,3.6,7650.0,65.7
+other,9484,21.55,16.0,3.57,6238.0,65.8
+low_range,6636,15.08,16.0,3.53,4311.0,65.0
+app_issue,5787,13.15,15.9,3.54,3840.0,66.4
+long_queue,5731,13.03,15.8,3.51,3737.0,65.2
+billing_dispute,4715,10.72,15.9,3.57,3095.0,65.6

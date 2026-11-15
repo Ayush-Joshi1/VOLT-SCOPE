@@ -1,0 +1,30 @@
+# Raw and generated data
+data/raw/
+data/interim/*
+data/processed/*
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+outputs/tables/*.csv
+outputs/figures/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Temporary/editor/OS files
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/

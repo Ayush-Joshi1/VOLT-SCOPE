@@ -1,0 +1,5 @@
+tariff_code,payment_mode,swaps,avg_list_price,avg_discount,avg_net_revenue,total_revenue,avg_discount_pct
+PARTNER,partner_invoice,2521737,69.95,8.83,57.93,146079775.0,12.63
+STD,partner_invoice,1085161,66.32,0.0,62.22,67519860.0,0.0
+PEAK,partner_invoice,171696,67.64,0.0,78.77,13523775.0,0.0
+OFFPEAK,partner_invoice,36388,67.61,0.0,56.94,2071886.0,0.0

@@ -1,0 +1,2 @@
+total_swaps,completed,failed,abandoned,success_rate_pct,failure_rate_pct,avg_queue_wait_sec,avg_revenue_inr,total_revenue_inr,unique_riders,unique_stations
+3814982,3586675.0,144186.0,84121.0,94.016,3.779,242.9,60.08,229195295.0,19941,150

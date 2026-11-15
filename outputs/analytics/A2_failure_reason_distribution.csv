@@ -1,0 +1,6 @@
+event_type,cnt,pct
+swap_completed,3586675,94.016
+failed_no_charged_battery,132786,3.481
+abandoned_queue,67663,1.774
+cancelled_by_rider,16458,0.431
+failed_system_error,11400,0.299
